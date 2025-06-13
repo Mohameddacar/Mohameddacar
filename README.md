@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameddacar&label=Profile%20views&color=0e75b6&style=flat" alt="mohameddacar" /> </p>
 
-- 🔭 I’m CS Student Currently working on **Front-end development**
+- 🔭 I’m CS Student Currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **mern-stack**
 
-- 💬 Ask me about **Html**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **Mohameddacarmohumed@gmail.com**
 
